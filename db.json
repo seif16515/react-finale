@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "username": "yassine",
+      "password": "yassine",
+      "id": 1,
+      "prop": "admin"
+    },
+    {
+      "username": "mehdi",
+      "password": "mehdi",
+      "id": 2,
+      "prop": "user"
+    },
+    {
+      "username": "omar",
+      "password": "omar",
+      "prop": "admin",
+      "id": 3
+    },
+    {
+      "username": "boug",
+      "password": "boug",
+      "prop": "user",
+      "id": 4
+    },
+    {
+      "username": "seif",
+      "password": "seif",
+      "id": 5
+    },
+    {
+      "username": "yas",
+      "password": "yas",
+      "id": 6
+    },
+    {
+      "username": "anis",
+      "password": "anis",
+      "prop": "admin",
+      "id": 7
+    },
+    {
+      "username": "seif",
+      "password": "seif",
+      "prop": "admin",
+      "id": 8
+    },
+    {
+      "username": "aziz",
+      "password": "aziz",
+      "prop": "admin",
+      "id": 9
+    }
+  ],
+  "comments": []
+}
